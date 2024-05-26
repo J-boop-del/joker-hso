@@ -2,21 +2,15 @@ telebot
 - Search:  pkg search <query>
  - Install: pkg install <package>
  - Upgrade: pkg upgrade
-
-Subscribing to additional repositories:
-
+Subscribing to additional repositories
  - Root:    pkg install root-repo
  - X11:     pkg install x11-repo
-
 For fixing any repository issues,
 try 'termux-change-repo' command.
 
 Report issues at https://termux.dev/issues
-~ $ pip
-
 Usage:
   pip <command> [options]
-
 Commands:
   install                     Install packages.
   download                    Download packages.
